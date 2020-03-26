@@ -30,6 +30,6 @@ import (
 )
 
 func manyImports(){
-	fmt.Println("Inside many imoprts")
+	fmt.Println("=> Inside many imoprts")
 	fmt.Println("Time is", time.Now())
 }
