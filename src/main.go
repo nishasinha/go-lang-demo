@@ -39,4 +39,7 @@ func main() {
 
 	fmt.Println(swap(1, 2))
 	fmt.Println(swap1(3, 4))
+
+	variable()
+	shortHandVariable()
 }
