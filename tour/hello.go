@@ -30,5 +30,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Printf("Hello, 世界!")
+	fmt.Println("Hello, 世界!")
+
+	manyImports()
 }
