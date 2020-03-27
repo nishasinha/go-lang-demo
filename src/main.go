@@ -45,4 +45,7 @@ func main() {
 
 	types()
 	constants()
+
+	for1()
+	while()
 }
