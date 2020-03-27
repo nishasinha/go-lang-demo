@@ -49,4 +49,6 @@ func main() {
 	for1()
 	while()
 	branching()
+	switchBranch("Alex")
+	switchBranch("Katie")
 }
