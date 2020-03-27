@@ -44,4 +44,5 @@ func main() {
 	shortHandVariable()
 
 	types()
+	constants()
 }
